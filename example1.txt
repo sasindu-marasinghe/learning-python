@@ -1,0 +1,4 @@
+Hello, boss!
+This is a file handling tutorial in Python.
+We are learning how to write, read, and handle errors gracefully.
+We are appending this line to the file.
